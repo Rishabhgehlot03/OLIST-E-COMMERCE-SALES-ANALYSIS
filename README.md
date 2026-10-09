@@ -4,7 +4,7 @@
 
 All project-related files, including the Power BI dashboard, SQL queries, Python notebooks, datasets, and project report, are available in the folder below.
 
-📁 **[Access All Project Files]([PASTE_YOUR_FOLDER_LINK_HERE](https://drive.google.com/drive/folders/1r1v-DCs9t7RD21o0c6dAnbW1sKMzmPZj?usp=drive_link))**
+📁 **[Access All Project Files](https://drive.google.com/drive/folders/1r1v-DCs9t7RD21o0c6dAnbW1sKMzmPZj?usp=drive_link)**
 
 
 An end-to-end data analytics project analyzing e-commerce performance across sales, customers, products, sellers, payments, reviews, and delivery using **Python, MySQL, SQL, Power BI, and DAX**.
